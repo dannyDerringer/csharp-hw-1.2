@@ -1,0 +1,8 @@
+c:\Users\danny\OneDrive\Documents\CS50x\c#\HW1\2\bin\Debug\netcoreapp1.1\2.deps.json
+c:\Users\danny\OneDrive\Documents\CS50x\c#\HW1\2\bin\Debug\netcoreapp1.1\2.runtimeconfig.json
+c:\Users\danny\OneDrive\Documents\CS50x\c#\HW1\2\bin\Debug\netcoreapp1.1\2.runtimeconfig.dev.json
+c:\Users\danny\OneDrive\Documents\CS50x\c#\HW1\2\bin\Debug\netcoreapp1.1\2.dll
+c:\Users\danny\OneDrive\Documents\CS50x\c#\HW1\2\bin\Debug\netcoreapp1.1\2.pdb
+c:\Users\danny\OneDrive\Documents\CS50x\c#\HW1\2\obj\Debug\netcoreapp1.1\2.AssemblyInfo.cs
+c:\Users\danny\OneDrive\Documents\CS50x\c#\HW1\2\obj\Debug\netcoreapp1.1\2.dll
+c:\Users\danny\OneDrive\Documents\CS50x\c#\HW1\2\obj\Debug\netcoreapp1.1\2.pdb
